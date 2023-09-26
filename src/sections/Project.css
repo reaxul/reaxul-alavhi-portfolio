@@ -9,21 +9,10 @@
     height: 200px;
     background: #000;
     transition: ease-in-out 6s;
-}
-
-.box.box1 {
-    background: url("https://i.ibb.co/Y3ZnY87/project1.jpg");
     background-size: cover;
 }
 
-.box.box2 {
-    background:url("https://i.ibb.co/MRMywqr/project2.jpg");
-    background-size: cover;
-}
-.box.box3 {
-    background:url("https://i.ibb.co/KrJmDDg/Web-capture-24-9-2023-34359-tasty-drops-web-app.jpg");
-    background-size: cover;
-}
+
 
 .box:hover {
     background-position: bottom left;

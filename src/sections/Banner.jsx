@@ -12,7 +12,7 @@ const Banner = () => {
         </div>
         <div className="lg:w-1/2">
           <h3 className="text-3xl">Hi, it's</h3>
-          <h1 className="text-7xl font-bold bg-gradient-to-r from-red-500 to-yellow-500 bg-clip-text text-transparent">
+          <h1 className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-red-500 to-yellow-500 bg-clip-text text-transparent">
             Reazul Alavhi
           </h1>
           <h3 className="text-4xl font-bold">
@@ -40,16 +40,16 @@ const Banner = () => {
             that comes my way.
           </p>
           <div className="flex gap-5 mt-5">
-          <a href="https://www.facebook.com/Reaxul.Alavhi">
+          <a target="blank" href="https://www.facebook.com/Reaxul.Alavhi">
               <BsFacebook size={24}></BsFacebook>
             </a>
-            <a href="https://www.linkedin.com/in/reazul-alavhi/">
+            <a target="blank" href="https://www.linkedin.com/in/reazul-alavhi/">
               <BsLinkedin size={24}></BsLinkedin>
             </a>
-            <a href="https://github.com/reaxul">
+            <a target="blank" href="https://github.com/reaxul">
               <BsGithub size={24}></BsGithub>
             </a>
-            <a href="https://www.instagram.com/your_reaxul/">
+            <a target="blank" href="https://www.instagram.com/your_reaxul/">
               <BsInstagram size={24}></BsInstagram>
             </a>
           </div>
