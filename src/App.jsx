@@ -19,7 +19,7 @@ function App() {
       <Projects></Projects>
       <Contact></Contact>
       <Footer></Footer>
-      {/* <AnimationBg></AnimationBg> */}
+      <AnimationBg></AnimationBg>
     </>
   )
 }

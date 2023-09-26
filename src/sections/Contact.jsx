@@ -33,7 +33,7 @@ const Contact = () => {
 
   return (
     <div id="contact">
-      <section id="contact" className="bg-base-100 py-12 mx-5">
+      <section id="contact" className="bg-base-100 py-12 mx-5 my-20">
         <h2 className="text-3xl font-bold mb-8 text-center">Contact Me</h2>
         <form ref={form} onSubmit={sendEmail} className="max-w-lg mx-auto">
           <div className="mb-6">
