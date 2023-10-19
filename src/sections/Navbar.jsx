@@ -119,7 +119,7 @@ const Navbar = () => {
         <ul className="menu menu-horizontal px-1">{navOptions}</ul>
       </div>
       <div className="navbar-end">
-        <a href="/resume.pdf" download>
+      <a href="https://drive.google.com/file/d/1OY0v1iijHUXaP5pVkh10nil1RnrURk7A/view?usp=sharing" target="blank">
           <button id="btn" className="btn">
             Resume <FaDownload />
           </button>

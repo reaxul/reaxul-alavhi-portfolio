@@ -57,7 +57,7 @@ const About = () => {
               <BsInstagram size={24}></BsInstagram>
             </a>
           </div> */}
-          <a href="/resume.pdf" download>
+          <a href="https://drive.google.com/file/d/1OY0v1iijHUXaP5pVkh10nil1RnrURk7A/view?usp=sharing" target="blank">
             <button id="btn" className="btn">
               Resume <FaDownload />
             </button>

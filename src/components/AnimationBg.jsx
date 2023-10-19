@@ -69,7 +69,7 @@ const AnimationBg = () => {
                             default: "bounce",
                         },
                         random: false,
-                        speed: 2,
+                        speed: 1.2,
                         straight: false,
                     },
                     number: {
