@@ -33,10 +33,10 @@ const About = () => {
             <div>
               <p className="text-xl tracking-wider mb-3 ml-4">: Reazul</p>
               <p className="text-xl tracking-wider mb-3 ml-4">: Alavhi</p>
-              <p className="text-xl tracking-wider mb-3 ml-4">: 23</p>
+              <p className="text-xl tracking-wider mb-3 ml-4">: 24</p>
               <p className="text-xl tracking-wider mb-3 ml-4">: Bangladeshi</p>
               <p className="text-xl tracking-wider mb-3 ml-4">
-                : Bangla, English, Hindi
+                : Bangla, English, Hindi, Spanish
               </p>
               <p className="text-xl tracking-wider mb-3 ml-4">
                 : Brahmanbaria, Bangladesh
