@@ -49,7 +49,7 @@ const Banner = () => {
             <a className="hover:text-[#ea1414d3]" target="blank" href="https://github.com/reaxul">
               <BsGithub size={24}></BsGithub>
             </a>
-            <a className="hover:text-[#ea1414d3]" target="blank" href="https://www.instagram.com/your_reaxul/">
+            <a className="hover:text-[#ea1414d3]" target="blank" href="https://www.instagram.com/reazul.alavhi/">
               <BsInstagram size={24}></BsInstagram>
             </a>
           </div>
